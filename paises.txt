@@ -1,10 +1,10 @@
-US Estados Unidos
-BR Brasil
-UK Reino Unido
-FR Franca
-DE Alemanha
-AU Australia
-ES Espanha
-JP Japao
-IT Italia
-SU Suica
+USA Estados Unidos
+BRA Brasil
+GBR Reino Unido
+FRA Franca
+DEU Alemanha
+AUS Australia
+ESP Espanha
+JAP Japao
+ITA Italia
+SUI Suica
